@@ -1,0 +1,14 @@
+[
+    {
+        "idClient": 1,
+        "nom": "Doe",
+        "prenom": "John",
+        "commandes": []
+    },
+    {
+        "idClient": 2,
+        "nom": "Briere",
+        "prenom": "Mostafa Amine",
+        "commandes": []
+    }
+]
