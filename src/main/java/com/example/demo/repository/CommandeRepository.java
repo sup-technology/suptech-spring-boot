@@ -5,5 +5,5 @@ import com.example.demo.model.Commande;
 import java.util.List;
 
 public interface CommandeRepository extends JpaRepository<Commande, Long> {
-    List<Commande> findByClientIdClient(Long idClient);
+    public List<Commande> findByClientIdClient(Long idClient);
 }
